@@ -1,0 +1,40 @@
+.test {
+    color: blue;
+    cursor: pointer;
+}
+
+.box {
+    padding: 20px;
+    background-color: red;
+    width: 120px;
+    height: 110px;
+}
+
+.box2 {
+    background-color: green;
+    padding: 20px;
+
+    width: 120px;
+    height: 110px;
+
+
+}
+
+.box3 {
+    background-color: blue;
+    padding: 20px;
+
+    width: 120px;
+    height: 110px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    height: 500px;
+    border: 1px solid;
+
+
+}
